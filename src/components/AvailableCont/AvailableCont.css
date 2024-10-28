@@ -1,0 +1,10 @@
+.active {
+    background-color: #d3ec13;
+
+}
+
+.available {
+    padding: 2px 24px;
+    cursor: pointer;
+    height: 42px;
+}

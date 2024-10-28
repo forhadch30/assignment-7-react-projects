@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "player_img": "https://media.gettyimages.com/id/1438363632/photo/adelaide-australia-shakib-al-hasan-of-bangladesh-reacts-to-losing-his-wicket-during-the-icc.jpg?s=612x612&w=0&k=20&c=uYDoHow0yQZBu5BtkpMFlAzm4a2eZsm0jAUwrTHA5jQ=",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "price": 1200000,
+        "bowling_position": "Left-arm orthodox",
+        "batting_style": "Left-hand bat",
+        "role": "All Rounder",
+        "flag": "https://example.com/flags/bangladesh.png"
+    },
+    {
+        "id": 2,
+        "player_img": "https://media.gettyimages.com/id/1434286776/photo/brisbane-australia-ben-stokes-poses-during-the-england-icc-mens-t20-cricket-world-cup-2022.jpg?s=612x612&w=0&k=20&c=fKXmh3hgMiIDzuyM5VFmZkshtYtqGJRtbRtnVqwqevE=",
+        "name": "Ben Stokes",
+        "country": "England",
+        "bowling_position": "Right-arm fast-medium",
+        "price": 1300000,
+        "batting_style": "Left-hand bat",
+        "role": "All Rounder",
+        "flag": "https://example.com/flags/india.png"
+    },
+    {
+        "id": 3,
+        "player_img": "https://media.gettyimages.com/id/1471687477/photo/chittagong-bangladesh-bangladesh-captain-tamim-iqbal-looks-at-the-teamsheet-ahead-of-the-3rd.jpg?s=612x612&w=0&k=20&c=SHAk7hRob4b0f1d6GYOUVERtinWyfxcUqBf2N2-phrU=",
+        "name": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "bowling_position": "N/A",
+        "price": 950000,
+        "batting_style": "Left-hand bat",
+        "role": "Batsman",
+        "flag": "https://example.com/flags/india.png"
+    },
+    {
+        "id": 4,
+        "player_img": "https://media.gettyimages.com/id/1434410451/photo/brisbane-australia-kane-williamson-poses-during-the-new-zealand-icc-mens-t20-cricket-world.jpg?s=612x612&w=0&k=20&c=ZG39PN6oaYM1yW9WKhoj9aXqrsfM5wUv3DrUG6IzoKk=",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "bowling_position": "N/A",
+        "price": 1100000,
+        "batting_style": "Right-hand bat",
+        "role": "Batsman",
+        "flag": "https://example.com/flags/india.png"
+    },
+    {
+        "id": 5,
+        "player_img": "https://media.gettyimages.com/id/1761644212/photo/kolkata-india-mahmudullah-riyad-of-bangladesh-looks-on-after-mehidy-hassan-miraz-is-run-out.jpg?s=612x612&w=0&k=20&c=bdMkAl9pU6Pv5rLpMISySdOXYC5tAAv0mYxy49cnGwQ=",
+        "name": "Mahmudullah",
+        "country": "Bangladesh",
+        "price": 800000,
+        "batting_style": "Right-hand bat",
+        "bowling_position": "Right-arm orthodox",
+        "role": "All Rounder",
+        "flag": "https://example.com/flags/india.png"
+    },
+    {
+        "id": 6,
+        "player_img": "https://media.gettyimages.com/id/1697624963/photo/cricket-sri-ban.jpg?s=2048x2048&w=gi&k=20&c=tpHr2zXb1cQT_XuF_wsqfK3WQE96RHjvS3yAq62qtOI=",
+        "name": "Mehedi Hasan",
+        "country": "Bangladesh",
+        "price": 850000,
+        "batting_style": "Right-hand bat",
+        "role": "All Rounder",
+        "bowling_position": "Right-arm offbreak",
+        "flag": "https://example.com/flags/bangladesh.png"
+    },
+    {
+        "id": 7,
+        "player_img": "https://media.gettyimages.com/id/1437861520/photo/brisbane-australia-mitchell-starc-of-australia-celebrates-dismissing-i5-during-the-icc-mens.jpg?s=612x612&w=0&k=20&c=EGXpOXa_za85WG4MhIt1t_5ibr-cryShNJKC4FT2zvs=",
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "price": 780000,
+        "batting_style": "Left-hand bat",
+        "bowling_position": "Left-arm fast-medium",
+        "role": "Bowler",
+        "flag": "https://ibb.co.com/7z6sdy6"
+    }
+]
